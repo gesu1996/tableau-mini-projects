@@ -74,6 +74,9 @@ The Sales Insights project analyzes sales data to provide a comprehensive view o
 - Product performance trends
 - Overall sales growth and patterns
 
+## License
+The project is covered under Apache License 2.0 which means it is covered as open-source and can be re-used by making changes of your own.
+
 
 1. Clone the repository:
    
