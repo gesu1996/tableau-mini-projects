@@ -78,7 +78,7 @@ The Sales Insights project analyzes sales data to provide a comprehensive view o
 The project is covered under Apache License 2.0 which means it is covered as open-source and can be re-used by making changes of your own.
 
 
-1. Clone the repository:
+## Clone the repository:
    
    ```bash
    git clone https://github.com/gesu1996/tableau-mini-projects.git
