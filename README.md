@@ -2,7 +2,7 @@
 
 Welcome to the Tableau Mini Projects repository. This repository contains various mini projects created using Tableau for data visualization and analysis. Each project demonstrates different aspects of data handling, visualization techniques, and insights extraction.
 
-##Pre-Requisites
+## Pre-Requisites
 - MySQL Server and Workbench
 - Tableau
 - Excel
